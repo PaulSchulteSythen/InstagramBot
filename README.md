@@ -1,8 +1,8 @@
 # Instagram Bot
-´´´
+```console
 pdoc --html InstagramBot
 pyinstaller --onefile --noconsole GUI.py
-´´´
+```
 
 Gmail: bottest371@gmail.com
 
